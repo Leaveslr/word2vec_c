@@ -1,3 +1,5 @@
+readme from mikolov
+--------------------------------------
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
